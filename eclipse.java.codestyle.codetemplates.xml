@@ -17,7 +17,6 @@
  * Constructor for class : [${project_name}] ${package_name}.${enclosing_type}.&lt;br&gt;
  *
  * &lt;br&gt;&lt;b&gt;PRE-conditions:&lt;/b&gt;
- * &lt;br&gt;&lt;b&gt;POST-conditions:&lt;/b&gt;
  * &lt;br&gt;&lt;b&gt;Side-effects:&lt;/b&gt;
  * &lt;br&gt;&lt;b&gt;Created on:&lt;/b&gt; &lt;i&gt;${time} ${date}&lt;/i&gt;
  * ${tags}
