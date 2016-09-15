@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="false" context="gettercomment_context" deleted="false" description="Comment for getter method" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.gettercomment" name="gettercomment">/**
  * Getter method.&lt;br&gt;
  *
- * &lt;br&gt;&lt;b&gt;POST-conditions:&lt;/b&gt;
+ * &lt;p&gt;&lt;b&gt;POST-conditions:&lt;/b&gt;
  * &lt;br&gt;&lt;b&gt;Side-effects:&lt;/b&gt;
  * &lt;br&gt;&lt;b&gt;Created on:&lt;/b&gt; &lt;i&gt;${time} ${date}&lt;/i&gt;
  * @return the ${bare_field_name}
  */</template><template autoinsert="false" context="settercomment_context" deleted="false" description="Comment for setter method" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.settercomment" name="settercomment">/**
  * Setter method.&lt;br&gt;
  *
- * &lt;br&gt;&lt;b&gt;PRE-conditions:&lt;/b&gt;
+ * &lt;p&gt;&lt;b&gt;PRE-conditions:&lt;/b&gt;
  * &lt;br&gt;&lt;b&gt;POST-conditions:&lt;/b&gt;
  * &lt;br&gt;&lt;b&gt;Side-effects:&lt;/b&gt;
  * &lt;br&gt;&lt;b&gt;Created on:&lt;/b&gt; &lt;i&gt;${time} ${date}&lt;/i&gt;
  * @param ${param} the ${bare_field_name} to set
  */</template><template autoinsert="false" context="constructorcomment_context" deleted="false" description="Comment for created constructors" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.constructorcomment" name="constructorcomment">/**
- * Constructor for class : [${project_name}] ${package_name}.${enclosing_type}.&lt;br&gt;
+ * Constructor for class : [${project_name}] ${package_name}.${enclosing_type}.&lt;p&gt;
  *
- * &lt;br&gt;&lt;b&gt;PRE-conditions:&lt;/b&gt;
+ * &lt;p&gt;&lt;b&gt;PRE-conditions:&lt;/b&gt;
  * &lt;br&gt;&lt;b&gt;Side-effects:&lt;/b&gt;
  * &lt;br&gt;&lt;b&gt;Created on:&lt;/b&gt; &lt;i&gt;${time} ${date}&lt;/i&gt;
  * ${tags}
  */</template><template autoinsert="false" context="filecomment_context" deleted="false" description="Comment for created Java files" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.filecomment" name="filecomment"/><template autoinsert="false" context="typecomment_context" deleted="false" description="Comment for created types" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.typecomment" name="typecomment">/**
- * Project : ${project_name}.&lt;br&gt;
+ * Project : ${project_name}.&lt;p&gt;
  *
- * &lt;br&gt;&lt;b&gt;Created on:&lt;/b&gt; &lt;i&gt;${time} ${date}&lt;/i&gt;
+ * &lt;p&gt;&lt;b&gt;Created on:&lt;/b&gt; &lt;i&gt;${time} ${date}&lt;/i&gt;
  * @author &lt;i&gt;Dmytro Buryak &amp;lt;dmytro.buryak@gmail.com&amp;gt;&lt;/i&gt;
  * @version 0.1
  * ${tags}
  */</template><template autoinsert="false" context="fieldcomment_context" deleted="false" description="Comment for fields" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.fieldcomment" name="fieldcomment">/**
  *
- * &lt;br&gt;&lt;b&gt;Created on:&lt;/b&gt; &lt;i&gt;${time} ${date}&lt;/i&gt;
+ * &lt;p&gt;&lt;b&gt;Created on:&lt;/b&gt; &lt;i&gt;${time} ${date}&lt;/i&gt;
  */</template><template autoinsert="false" context="methodcomment_context" deleted="false" description="Comment for non-overriding methods" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.methodcomment" name="methodcomment">/**
  *
- * &lt;br&gt;&lt;b&gt;PRE-conditions:&lt;/b&gt;
+ * &lt;p&gt;&lt;b&gt;PRE-conditions:&lt;/b&gt;
  * &lt;br&gt;&lt;b&gt;POST-conditions:&lt;/b&gt;
  * &lt;br&gt;&lt;b&gt;Side-effects:&lt;/b&gt;
  * &lt;br&gt;&lt;b&gt;Created on:&lt;/b&gt; &lt;i&gt;${time} ${date}&lt;/i&gt;
  * ${tags}
  */</template><template autoinsert="false" context="overridecomment_context" deleted="false" description="Comment for overriding methods" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.overridecomment" name="overridecomment">/**
  *
- * &lt;br&gt;&lt;b&gt;PRE-conditions:&lt;/b&gt;
+ * &lt;p&gt;&lt;b&gt;PRE-conditions:&lt;/b&gt;
  * &lt;br&gt;&lt;b&gt;POST-conditions:&lt;/b&gt;
  * &lt;br&gt;&lt;b&gt;Side-effects:&lt;/b&gt;
  * &lt;br&gt;&lt;b&gt;Created on:&lt;/b&gt; &lt;i&gt;${time} ${date}&lt;/i&gt;
@@ -48,7 +48,7 @@
  */</template><template autoinsert="false" context="delegatecomment_context" deleted="false" description="Comment for delegate methods" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.delegatecomment" name="delegatecomment">/**
  * Delegate method.&lt;br&gt;
  *
- * &lt;br&gt;&lt;b&gt;PRE-conditions:&lt;/b&gt;
+ * &lt;p&gt;&lt;b&gt;PRE-conditions:&lt;/b&gt;
  * &lt;br&gt;&lt;b&gt;POST-conditions:&lt;/b&gt;
  * &lt;br&gt;&lt;b&gt;Side-effects:&lt;/b&gt;
  * &lt;br&gt;&lt;b&gt;Created on:&lt;/b&gt; &lt;i&gt;${time} ${date}&lt;/i&gt;
