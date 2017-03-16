@@ -21,7 +21,7 @@
  * &lt;br&gt;&lt;b&gt;Created on:&lt;/b&gt; &lt;i&gt;${time} ${date}&lt;/i&gt;
  * ${tags}
  */</template><template autoinsert="false" context="filecomment_context" deleted="false" description="Comment for created Java files" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.filecomment" name="filecomment"/><template autoinsert="false" context="typecomment_context" deleted="false" description="Comment for created types" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.typecomment" name="typecomment">/**
- * Project : ${project_name}.&lt;p&gt;
+ * Project : ${project_name}&lt;p&gt;
  *
  * &lt;p&gt;&lt;b&gt;Created on:&lt;/b&gt; &lt;i&gt;${time} ${date}&lt;/i&gt;
  * @author &lt;i&gt;Dmytro Buryak &amp;lt;dmytro.buryak@gmail.com&amp;gt;&lt;/i&gt;
